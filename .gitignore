@@ -1,0 +1,17 @@
+*.Plo
+*.Po
+*.log
+*.a
+*.la
+*.o
+*.lo
+*.lai
+Makefile
+doc/Doxyfile
+doc/Makefile
+popt/Makefile
+rdiff
+testsuite/Makefile
+stamp-h1
+libtool
+*~
